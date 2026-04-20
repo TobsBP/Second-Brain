@@ -21,11 +21,11 @@ updated: 2026-04-20
 
 ## Books
 
-*(no books yet — drop a chapter into `raw/books/<book-name>/` to get started)*
+- [[wiki/books/eng-soft-moderna/overview]] — Engenharia de Software Moderna (Marco Tulio Valente)
 
 ## Concepts
 
-*(no concept pages yet)*
+- [[wiki/concepts/functional-vs-nonfunctional-requirements]] — What a system must do (functional) vs what it must be (non-functional)
 
 ## Sources ingested
 
