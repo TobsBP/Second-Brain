@@ -18,15 +18,18 @@ updated: 2026-04-20
 
 ## Subjects
 
-- [[wiki/subjects/C24-IA/overview]] — C24 Inteligência Artificial
-- [[wiki/subjects/C09-CG/overview]] — C09 Computação Gráfica
-- [[wiki/subjects/S03-ArqSoft/overview]] — S03 Arquitetura de Software
-- [[wiki/subjects/S02-BD2/overview]] — S02 Banco de Dados 2
-- [[wiki/subjects/S07-QGCE/overview]] — S07 Qualidade, Gerência de Config e Evolução de Software
+- [[wiki/subjects/C24-IA/C24-IA-overview]] — C24 Inteligência Artificial
+- [[wiki/subjects/C09-CG/C09-CG-overview]] — C09 Computação Gráfica
+- [[wiki/subjects/S03-ArqSoft/S03-ArqSoft-overview]] — S03 Arquitetura de Software
+- [[wiki/subjects/S02-BD2/S02-BD2-overview]] — S02 Banco de Dados 2
+  - [[wiki/subjects/S02-BD2/neo4j-graph-model]] — Nós, relacionamentos, propriedades
+  - [[wiki/subjects/S02-BD2/cypher-query-language]] — Comandos Cypher: MERGE, MATCH, UNWIND, etc.
+  - [[wiki/subjects/S02-BD2/neo4j-python-driver]] — Driver Python e padrão DAO
+- [[wiki/subjects/S07-QGCE/S07-QGCE-overview]] — S07 Qualidade, Gerência de Config e Evolução de Software
 
 ## Books
 
-- [[wiki/books/eng-soft-moderna/overview]] — Engenharia de Software Moderna (Marco Tulio Valente)
+- [[wiki/books/eng-soft-moderna/eng-soft-moderna-overview]] — Engenharia de Software Moderna (Marco Tulio Valente)
 
 ## Concepts
 

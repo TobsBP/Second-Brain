@@ -18,8 +18,8 @@ Not yet observed in journals.
 
 ## In books
 
-- [[wiki/books/eng-soft-moderna/overview]] — introduced in the opening pages as a foundational lens for understanding what a software system needs to satisfy
+- [[wiki/books/eng-soft-moderna/eng-soft-moderna-overview]] — introduced in the opening pages as a foundational lens for understanding what a software system needs to satisfy
 
 ## Cross-references
 
-- [[wiki/subjects/S03-ArqSoft/overview]] — architectural decisions are largely driven by non-functional requirements (performance, availability, scalability)
+- [[wiki/subjects/S03-ArqSoft/S03-ArqSoft-overview]] — architectural decisions are largely driven by non-functional requirements (performance, availability, scalability)

@@ -15,7 +15,7 @@ classes_ingested: 0
 *(links to concept pages will appear here)*
 
 ## Cross-references
-This subject connects directly to [[wiki/books/eng-soft-moderna/overview]] — Chapter 7 (Arquitetura) is highly relevant.
+This subject connects directly to [[wiki/books/eng-soft-moderna/eng-soft-moderna-overview]] — Chapter 7 (Arquitetura) is highly relevant.
 
 ## Class log
 | Aula | Data | Tópico | Ingerido |

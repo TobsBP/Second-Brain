@@ -15,7 +15,7 @@ classes_ingested: 0
 *(links to concept pages will appear here)*
 
 ## Cross-references
-Connects to [[wiki/books/eng-soft-moderna/overview]] — Chapters 8 (Testes), 9 (Refactoring), and 10 (DevOps) are directly relevant.
+Connects to [[wiki/books/eng-soft-moderna/eng-soft-moderna-overview]] — Chapters 8 (Testes), 9 (Refactoring), and 10 (DevOps) are directly relevant.
 
 ## Class log
 | Aula | Data | Tópico | Ingerido |
