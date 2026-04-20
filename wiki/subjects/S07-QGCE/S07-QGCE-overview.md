@@ -18,7 +18,7 @@ classes_ingested: 0
 Connects to [[wiki/books/eng-soft-moderna/eng-soft-moderna-overview]] — Chapters 8 (Testes), 9 (Refactoring), and 10 (DevOps) are directly relevant.
 
 ## Class log
-| Aula | Data | Tópico | Ingerido |
+| Class | Date | Topic | Ingested |
 |------|------|--------|----------|
 
 ## Key questions to review

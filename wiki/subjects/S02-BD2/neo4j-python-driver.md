@@ -7,22 +7,22 @@ updated: 2026-04-20
 
 # Neo4j Python Driver
 
-Biblioteca oficial `neo4j` para conectar e executar queries Cypher a partir de Python.
+The official `neo4j` library for connecting to Neo4j and executing Cypher queries from Python.
 
-## Configuração básica
+## Basic setup
 
 ```python
 from neo4j import GraphDatabase
 
 driver = GraphDatabase.driver(
     "bolt://localhost:7687",
-    auth=("neo4j", "senha")
+    auth=("neo4j", "password")
 )
 ```
-- Protocolo: **Bolt** (binário, eficiente)
-- Porta padrão: `7687`
+- Protocol: **Bolt** (binary, efficient)
+- Default port: `7687`
 
-## Executando queries
+## Running queries
 
 ```python
 driver.execute_query(
@@ -31,10 +31,10 @@ driver.execute_query(
     description=guild.description,
 )
 ```
-- Parâmetros passados como kwargs — **nunca interpolar strings** (evita injection)
-- Retorna um objeto com `.records` (lista de resultados)
+- Parameters passed as kwargs — **never interpolate strings** (prevents injection)
+- Returns an object with `.records` (list of results)
 
-## Lendo resultados
+## Reading results
 
 ```python
 result = driver.execute_query("MATCH (g:Guild) RETURN g.name AS name")
@@ -42,9 +42,9 @@ for r in result.records:
     print(r["name"])
 ```
 
-## Padrão DAO aplicado
+## DAO pattern applied
 
-O exercício usa o padrão **DAO (Data Access Object)**: cada entidade tem uma classe dedicada (`GuildDAO`, `AdventurerDAO`, `QuestDAO`) que encapsula todas as queries relacionadas. Isso separa a lógica de acesso a dados do resto da aplicação.
+The exercise uses the **DAO (Data Access Object)** pattern: each entity has a dedicated class (`GuildDAO`, `AdventurerDAO`, `QuestDAO`) that encapsulates all related queries. This separates data access logic from the rest of the application.
 
 ```
 GuildDAO      → add_guild, get_guilds_by_specialization
@@ -52,9 +52,9 @@ AdventurerDAO → add_adventurer, get_available_quests, promote_adventurer
 QuestDAO      → add_quest, delete_quest
 ```
 
-## Singleton do driver
+## Driver Singleton
 
-O exercício usa um padrão Singleton (`Neo4jDriver.get_driver()`) para reutilizar a conexão. Criar um novo driver a cada operação é custoso.
+The exercise uses a Singleton pattern (`Neo4jDriver.get_driver()`) to reuse the connection. Creating a new driver on every operation is expensive.
 
 ## Cross-references
 - [[wiki/subjects/S02-BD2/neo4j-graph-model]]

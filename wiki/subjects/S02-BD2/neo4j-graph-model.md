@@ -7,32 +7,32 @@ updated: 2026-04-20
 
 # Neo4j — Graph Model
 
-Neo4j organiza dados como um grafo de **nós** (nodes) e **relacionamentos** (relationships), ambos podendo ter propriedades. É ideal para dados altamente conectados onde relações são tão importantes quanto os próprios dados.
+Neo4j stores data as a graph of **nodes** and **relationships**, both of which can hold properties. It excels at highly connected data where relationships are as important as the data itself.
 
-## Elementos fundamentais
+## Core elements
 
-| Elemento | Descrição | Exemplo do exercício |
-|----------|-----------|---------------------|
-| **Node** | Entidade, rotulada com `:Label` | `:Guild`, `:Adventurer`, `:Quest`, `:Specialization` |
-| **Relationship** | Aresta direcionada entre dois nós | `-[:HAS_SPECIALIZATION]->`, `-[:MEMBER_OF]->` |
-| **Property** | Atributo chave-valor num nó ou relacionamento | `name`, `rank`, `reward` |
-| **Label** | Tipo do nó (pode ter múltiplos) | `:Guild`, `:Adventurer` |
+| Element | Description | Exercise example |
+|---------|-------------|-----------------|
+| **Node** | Entity, labeled with `:Label` | `:Guild`, `:Adventurer`, `:Quest`, `:Specialization` |
+| **Relationship** | Directed edge between two nodes | `-[:HAS_SPECIALIZATION]->`, `-[:MEMBER_OF]->` |
+| **Property** | Key-value attribute on a node or relationship | `name`, `rank`, `reward` |
+| **Label** | Type of a node (a node can have multiple) | `:Guild`, `:Adventurer` |
 
-## Tipos de propriedades suportados
-- Primitivos: `string`, `integer`, `float`, `boolean`
-- Temporal: `date(...)` — ex.: `date($registration_date)`
-- Listas: `["Combate", "Magia"]` — armazenadas diretamente como propriedade do nó
+## Supported property types
+- Primitives: `string`, `integer`, `float`, `boolean`
+- Temporal: `date(...)` — e.g. `date($registration_date)`
+- Lists: `["Combat", "Magic"]` — stored directly as a node property
 
-## Modelo do exercício
+## Exercise model
 
 ```
 (:Adventurer)-[:MEMBER_OF]->(:Guild)-[:HAS_SPECIALIZATION]->(:Specialization)
-(:Quest) — propriedades: required_ranks[], required_specializations[]
+(:Quest) — properties: required_ranks[], required_specializations[]
 ```
 
-## Quando usar Neo4j vs relacional
-- **Neo4j**: travessias de grafo, recomendações, redes sociais, permissões hierárquicas
-- **Relacional**: dados tabulares, agregações simples, relatórios
+## When to use Neo4j vs relational
+- **Neo4j**: graph traversals, recommendations, social networks, hierarchical permissions
+- **Relational**: tabular data, simple aggregations, reporting
 
 ## Cross-references
 - [[wiki/subjects/S02-BD2/cypher-query-language]]

@@ -15,7 +15,7 @@ classes_ingested: 0
 *(links to concept pages will appear here)*
 
 ## Class log
-| Aula | Data | Tópico | Ingerido |
+| Class | Date | Topic | Ingested |
 |------|------|--------|----------|
 
 ## Key questions to review
