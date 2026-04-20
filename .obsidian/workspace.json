@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ff31e5db326dc9",
+        "id": "70c9d9ef211344b7",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9d853029d6c093",
+            "id": "5a0db1a1a16a0281",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/job/Team.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Team"
             }
           }
         ]
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 393.5
   },
   "right": {
     "id": "57a2e1841666ba2d",
@@ -176,38 +180,50 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5d9d853029d6c093",
+  "active": "5a0db1a1a16a0281",
   "lastOpenFiles": [
-    "wiki/subjects/S03-ArqSoft/overview.md",
+    "raw/job/Architecture.md",
+    "raw/job/Team.md",
+    "raw/job/Kanban.md",
+    "log.md.tmp.102601.1776708583833",
+    "wiki/personal/team-lead.md.tmp.102601.1776708579849",
+    "raw/job/People.md",
+    "CLAUDE.md.tmp.102601.1776707031957",
+    "CLAUDE.md.tmp.102601.1776707024451",
+    "wiki/personal/team-lead.md.tmp.102601.1776707018000",
+    "index.md.tmp.102601.1776707012856",
+    "raw/job",
+    "raw/books/Modern Software Engineer.md",
+    "raw/subjects/S02-BD2/Neo4j test.md",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
+    "wiki/personal/self-model.md",
+    "job/team.md",
+    "wiki/personal/team-lead.md.tmp.102601.1776706469113",
+    "index.md.tmp.102601.1776706468358",
+    "job",
+    "wiki/personal/team-lead.md",
+    "tasks/team.md",
+    "raw/subjects/C24-IA/MLP.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-20 14.26.55.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
+    "CLAUDE.md",
+    "Welcome.md",
     "wiki/concepts/functional-vs-nonfunctional-requirements.md",
+    "wiki/subjects/S03-ArqSoft/overview.md",
     "wiki/books/eng-soft-moderna/overview.md",
-    "log.md.tmp.76000.1776699107358",
-    "index.md.tmp.76000.1776699105751",
-    "wiki/concepts/functional-vs-nonfunctional-requirements.md.tmp.76000.1776699101560",
-    "wiki/books/eng-soft-moderna/overview.md.tmp.76000.1776699089858",
     "wiki/subjects/C09-CG/overview.md",
     "index.md",
-    "CLAUDE.md",
-    "raw/books/Modern Software Engineer.md",
-    "raw/books/eng-soft-moderna",
-    "wiki/personal/self-model.md",
     "wiki/personal/health.md",
-    "wiki/books/eng-soft-moderna",
-    "Welcome.md",
-    "log.md.tmp.56785.1776697657115",
-    "index.md.tmp.56785.1776697646962",
-    "CLAUDE.md.tmp.56785.1776697639238",
     "wiki/subjects/S07-QGCE/overview.md",
-    "wiki/subjects/S07-QGCE/overview.md.tmp.56785.1776697623694",
     "wiki/subjects/S02-BD2/overview.md",
     "wiki/subjects/C24-IA/overview.md",
     "log.md",
     "wiki/personal/tech-stack.md",
-    "2026-04-20.md",
-    "2026-02-05.md",
     "Untitled.canvas"
   ]
 }
