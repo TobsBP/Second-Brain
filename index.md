@@ -8,6 +8,11 @@ updated: 2026-04-20
 
 - [[wiki/personal/self-model]] — High-level evolving picture of who Tobias is
 - [[wiki/personal/tech-stack]] — Technologies, skills, and certificates
+- [[wiki/personal/team-lead]] — Leadership journal: decisions, patterns, retrospectives
+
+## Job
+
+- [[Team]] — Active task board for the dev team
 
 *(stub pages pending first journal entry: goals, habits, health)*
 

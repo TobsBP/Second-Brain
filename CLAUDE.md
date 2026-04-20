@@ -9,6 +9,7 @@ raw/
   journal/        ← immutable journal entries (markdown, one file per entry)
   books/          ← immutable book sources (one folder per book, one file per chapter)
   assets/         ← images downloaded from clipped articles
+  job/            ← living work documents: task boards, team notes, standups
 wiki/
   personal/       ← synthesized personal knowledge (goals, health, patterns, self-model)
   books/          ← book companion pages (characters, places, themes, plot threads)
@@ -18,7 +19,7 @@ log.md            ← append-only activity log (update on every operation)
 CLAUDE.md         ← this file
 ```
 
-**Rule:** Never modify anything under `raw/`. Read from it; write only to `wiki/`, `index.md`, and `log.md`.
+**Rule:** Never modify anything under `raw/` except `raw/job/` — those are living documents. Read all of `raw/`; write only to `raw/job/`, `wiki/`, `index.md`, and `log.md`.
 
 ---
 
