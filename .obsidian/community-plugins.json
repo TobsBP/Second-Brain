@@ -1,5 +1,6 @@
 [
-  "obsidian-excalidraw-plugin",
   "code-styler",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]
