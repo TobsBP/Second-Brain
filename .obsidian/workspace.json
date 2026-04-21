@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d1eea93ea64bd3d3",
+        "id": "dcdebca811e749be",
         "type": "tabs",
         "children": [
           {
-            "id": "1c3e9f50a0ed56ab",
+            "id": "2cbd88c983809aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/subjects/C24-IA/neural-networks.md",
+                "file": "wiki/subjects/C09-CG/multimidia-hipermidia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "neural-networks"
+              "title": "multimidia-hipermidia"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/subjects/C24-IA/neural-networks.md",
+                "file": "raw/job/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for neural-networks"
+              "title": "Backlinks for Architecture"
             }
           },
           {
@@ -193,14 +193,20 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3e9f50a0ed56ab",
+  "active": "2cbd88c983809aec",
   "lastOpenFiles": [
-    "raw/subjects/C24-AI/MPL - Neural Network.md",
+    "raw/job/Team.md",
+    "wiki/subjects/C09-CG/multimidia-hipermidia.md",
+    "raw/subjects/C09-CG/Multimídia e Hipermídia.md",
+    "raw/job/Architecture.md",
+    "raw/subjects/C09-CG",
+    "raw/job/Project Infos.md",
+    "Untitled 1.md",
     "wiki/subjects/C24-IA/neural-networks.md",
+    "raw/subjects/C24-AI/MPL - Neural Network.md",
     "wiki/personal/team-lead.md",
     "wiki/personal/self-model.md",
     "wiki/personal/health.md",
@@ -225,17 +231,10 @@
     "wiki/subjects/C24-IA/C24-IA-overview.md.tmp.102601.1776710413184",
     "wiki/subjects/S02-BD2/neo4j-python-driver.md.tmp.102601.1776710408357",
     "wiki/subjects/S02-BD2/cypher-query-language.md.tmp.102601.1776710400590",
-    "wiki/subjects/S02-BD2/neo4j-graph-model.md.tmp.102601.1776710390420",
     "wiki/personal/goals.md",
     "wiki/subjects/S02-BD2/overview.md",
     "wiki/subjects/S02-BD2/S02-BD2-overview.md",
     "wiki/subjects/S07-QGCE/S07-QGCE-overview.md",
-    "wiki/subjects/S03-ArqSoft/S03-ArqSoft-overview.md",
-    "wiki/subjects/C09-CG/C09-CG-overview.md",
-    "wiki/subjects/C24-IA/C24-IA-overview.md",
-    "raw/job/Architecture.md",
-    "raw/job/Team.md",
-    "raw/job/Kanban.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Untitled.canvas"
   ]
