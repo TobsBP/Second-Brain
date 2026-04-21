@@ -14,3 +14,4 @@ Append-only record of all operations. Parse with: `grep "^## \[" log.md | tail -
 ## [2026-04-20] ingest | journal | 2026-04-20 — motivation for the vault, anxiety and confidence about new challenges
 ## [2026-04-20] ingest | subject | C24 MLP Neural Network — RNAs, neurônio artificial, DNNs, backpropagation
 ## [2026-04-20] ingest | subject | C09 aula 1 — Multimídia e Hipermídia (linear, não linear, hipermídia)
+## [2026-04-21] ingest | subject | S03 Practice exam NP1 — pilares OO, arq vs eng, padrões (MVC/SPA/MOM/SOA), princípios de design (coesão/acoplamento/SOLID/Demeter)

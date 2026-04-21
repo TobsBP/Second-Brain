@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcdebca811e749be",
+        "id": "70e0bf35cff9be83",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbd88c983809aec",
+            "id": "a656216b47808e0d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "raw/job/Architecture.md",
-                "bFile": "raw/job/Architecture.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "raw/subjects/S03-ArqSoft/Practice exam NP1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Architecture  (Index)"
+              "icon": "lucide-file",
+              "title": "Practice exam NP1"
             }
           }
         ]
@@ -181,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,45 +197,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db3fbaeed3f9f37c",
+  "active": "a656216b47808e0d",
   "lastOpenFiles": [
-    "wiki/subjects/C09-CG/multimidia-hipermidia.md",
-    "raw/job/Team.md",
-    "raw/subjects/C09-CG/Multimídia e Hipermídia.md",
+    "Untitled Kanban.md",
+    "2026-04-21.md",
+    "Untitled.base",
     "raw/job/Architecture.md",
-    "raw/subjects/C09-CG",
     "raw/job/Project Infos.md",
-    "Untitled 1.md",
+    "wiki/subjects/S03-ArqSoft/S03-ArqSoft-overview.md",
+    "wiki/subjects/S03-ArqSoft/pilares-oo.md",
+    "wiki/subjects/S03-ArqSoft/principios-design.md",
+    "raw/subjects/S03-ArqSoft/Practice exam NP1.md",
+    "wiki/concepts/functional-vs-nonfunctional-requirements.md",
+    "wiki/subjects/C24-IA/C24-IA-overview.md",
     "wiki/subjects/C24-IA/neural-networks.md",
     "raw/subjects/C24-AI/MPL - Neural Network.md",
-    "wiki/personal/team-lead.md",
-    "wiki/personal/self-model.md",
-    "wiki/personal/health.md",
-    "2026-04-20.md",
-    "raw/subjects/C24-AI/MLP.md",
-    "raw/subjects/C24-AI/Untitled.canvas",
-    "Excalidraw",
-    "raw/subjects/C24-AI",
-    "raw/journal/2026-04-20.md",
-    "raw/subjects/S03-ArqSoft/Practice exam NP1.md",
-    "raw/subjects/S02-BD2/Neo4j test.md",
-    "wiki/books/eng-soft-moderna/eng-soft-moderna-overview.md",
-    "wiki/concepts/functional-vs-nonfunctional-requirements.md",
     "CLAUDE.md",
-    "wiki/subjects/S02-BD2/neo4j-python-driver.md",
-    "wiki/subjects/S02-BD2/neo4j-graph-model.md",
-    "wiki/subjects/S02-BD2/cypher-query-language.md",
+    "index.md",
+    "wiki/subjects/S03-ArqSoft/padroes-arquiteturais.md",
+    "wiki/subjects/S03-ArqSoft/arquitetura-vs-engenharia.md",
+    "raw/subjects/S02-BD2/Neo4j test.md",
+    "Excalidraw/Drawing 2026-04-21 10.57.06.excalidraw.md",
+    "wiki/books/eng-soft-moderna/eng-soft-moderna-overview.md",
+    "Excalidraw",
+    "raw/journal/2026-04-20.md",
+    "raw/job/Team.md",
+    "raw/books/Modern Software Engineer.md",
+    "wiki/subjects/C09-CG/C09-CG-overview.md",
+    "wiki/subjects/C09-CG/multimidia-hipermidia.md",
+    "raw/subjects/C09-CG/Multimídia e Hipermídia.md",
+    "raw/subjects/C09-CG",
+    "raw/subjects/C24-AI/Untitled.canvas",
+    "raw/subjects/C24-AI",
     "log.md.tmp.102601.1776710419380",
     "wiki/subjects/S07-QGCE/S07-QGCE-overview.md.tmp.102601.1776710416225",
     "wiki/subjects/S03-ArqSoft/S03-ArqSoft-overview.md.tmp.102601.1776710415040",
     "wiki/subjects/C09-CG/C09-CG-overview.md.tmp.102601.1776710414703",
     "wiki/subjects/C24-IA/C24-IA-overview.md.tmp.102601.1776710413184",
     "wiki/subjects/S02-BD2/neo4j-python-driver.md.tmp.102601.1776710408357",
-    "wiki/subjects/S02-BD2/cypher-query-language.md.tmp.102601.1776710400590",
-    "wiki/personal/goals.md",
-    "wiki/subjects/S02-BD2/overview.md",
-    "wiki/subjects/S02-BD2/S02-BD2-overview.md",
-    "wiki/subjects/S07-QGCE/S07-QGCE-overview.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Untitled.canvas"
   ]
