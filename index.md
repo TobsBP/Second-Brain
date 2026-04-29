@@ -1,5 +1,5 @@
 ---
-updated: 2026-04-21
+updated: 2026-04-29
 ---
 
 # Wiki Index
@@ -22,6 +22,7 @@ updated: 2026-04-21
   - [[wiki/subjects/C24-IA/neural-networks]] — RNAs, MLP, DNNs, backpropagation
 - [[wiki/subjects/C09-CG/C09-CG-overview]] — C09 Computação Gráfica
   - [[wiki/subjects/C09-CG/multimidia-hipermidia]] — Multimídia linear, não linear e hipermídia
+  - [[wiki/subjects/C09-CG/operacoes-dominio-espaco]] — Operações pixel a pixel: aritméticas e lógicas
 - [[wiki/subjects/S03-ArqSoft/S03-ArqSoft-overview]] — S03 Arquitetura de Software
   - [[wiki/subjects/S03-ArqSoft/pilares-oo]] — Abstração, Encapsulamento, Herança, Polimorfismo
   - [[wiki/subjects/S03-ArqSoft/arquitetura-vs-engenharia]] — Diferença de escopo e papéis
@@ -50,3 +51,4 @@ updated: 2026-04-21
 | 2026-04-20 | class | C24 MLP Neural Network | C24-IA overview, neural-networks |
 | 2026-04-20 | class | C09 Multimídia e Hipermídia | C09-CG overview, multimidia-hipermidia |
 | 2026-04-21 | exam | S03 Practice exam NP1 | S03 overview, pilares-oo, arquitetura-vs-engenharia, padroes-arquiteturais, principios-design |
+| 2026-04-29 | class | C09 Operações no Domínio do Espaço | C09-CG overview, operacoes-dominio-espaco |
