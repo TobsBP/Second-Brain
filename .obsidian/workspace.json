@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "436416ec1cc3dabb",
+        "id": "354391c550bd8fd4",
         "type": "tabs",
         "children": [
           {
-            "id": "a05f3d6ec4f01270",
+            "id": "c326d040e43d14b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "raw/subjects/S07-QGCE/NP2-Project/base-desing.excalidraw.md"
+                "file": "raw/subjects/S03-ArqSoft/Practice exam NP2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "base-desing.excalidraw"
+              "icon": "lucide-file",
+              "title": "Practice exam NP2"
             }
           }
         ]
@@ -195,15 +197,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f800be208d0a018",
+  "active": "c326d040e43d14b7",
   "lastOpenFiles": [
+    "raw/job/Architecture.md",
+    "raw/subjects/S03-ArqSoft/Practice exam NP2.md",
+    "raw/subjects/S07-QGCE/NP2-Project/base-desing.excalidraw.md",
     "raw/subjects/S07-QGCE/NP2-Project/screen 1.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen 1.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_1.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_0.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_2.png",
-    "raw/subjects/S07-QGCE/NP2-Project/base-desing.excalidraw.md",
     "raw/subjects/S07-QGCE/NP2-Project",
     "raw/subjects/S07-QGCE/NP2-Project/Integrantes.md",
     "raw/subjects/C09-CG/Atividade/Lista Reposição 01.md",
@@ -222,7 +226,6 @@
     "raw/subjects/C09-CG/Operações no Domínio do Espaço.md",
     "raw/projects/overview.canvas",
     "raw/projects/Untitled.md",
-    "raw/job/Architecture.md",
     "raw/projects",
     "wiki/subjects/C24-IA/neural-networks.md",
     "raw/subjects/C09-CG/Dados Multimídia.md",
