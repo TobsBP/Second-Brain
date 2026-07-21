@@ -2,22 +2,25 @@
 type: subject-overview
 code: C24
 title: Inteligência Artificial
-updated: 2026-04-20
-classes_ingested: 1
+updated: 2026-07-21
+classes_ingested: 2
 ---
 
 # C24 — Inteligência Artificial
 
 ## Topics covered so far
 - Redes Neurais Artificiais (MLP): analogia biológica, neurônio artificial, arquitetura, treinamento, backpropagation.
+- K-means e método do cotovelo — clustering não supervisionado.
 
 ## Concepts
 - [[wiki/subjects/C24-IA/neural-networks]] — RNAs, MLP, DNNs, gradiente descendente, backpropagation.
+- [[wiki/subjects/C24-IA/k-means]] — Clustering, método do cotovelo, escolha de k.
 
 ## Class log
 | Class | Date | Topic | Ingested |
 |------|------|--------|----------|
 | MLP — Neural Network | 2026-04-20 | Redes Neurais Artificiais, MLP, backpropagation | 2026-04-20 |
+| Atividade k-means | — | Clustering, método do cotovelo | 2026-07-21 |
 
 ## Key questions to review
 1. Quais são as três partes fundamentais do neurônio biológico e qual o papel de cada uma?
@@ -31,6 +34,7 @@ classes_ingested: 1
 9. O que faz a backpropagation ao atualizar o peso de um nó? Qual derivada ela calcula?
 10. Qual é a função de erro típica usada no exemplo de treinamento, e por que ela é derivável?
 11. Por que DNNs conseguem aproximar funções altamente não lineares?
+12. Como funciona o método do cotovelo para escolher o k ideal no k-means?
 
 ## Sources
 *(raw notes in `raw/subjects/C24-AI/`)*

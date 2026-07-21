@@ -9,11 +9,16 @@ raw/
   journal/        ← immutable journal entries (markdown, one file per entry)
   books/          ← immutable book sources (one folder per book, one file per chapter)
   assets/         ← images downloaded from clipped articles
-  job/            ← living work documents: task boards, team notes, standups
+  job/            ← living work documents: task boards, team notes, standups, one folder per paid/employer project
+  subjects/       ← class notes, one folder per subject code (see Subject codes below)
+  projects/       ← notes on personal/side projects, one folder per project
 wiki/
   personal/       ← synthesized personal knowledge (goals, health, patterns, self-model)
   books/          ← book companion pages (characters, places, themes, plot threads)
   concepts/       ← cross-domain concepts that appear in both personal and book contexts
+  subjects/       ← subject overview + concept pages, one folder per subject code
+  projects/       ← project overview + concept pages, one folder per personal/side project
+  job/            ← job overview + concept pages, one folder per paid/employer project — same shape as wiki/projects/, but for work Tobias is paid for, not personal projects
 index.md          ← master catalog of all wiki pages (update on every ingest)
 log.md            ← append-only activity log (update on every operation)
 CLAUDE.md         ← this file
@@ -113,6 +118,51 @@ One-paragraph summary of what this book is about and the central thesis/story.
 ## Evolving thesis
 How the central argument or story is building as more chapters are read.
 ```
+
+### Project overview page (`wiki/projects/<project>/<project>-overview.md`)
+One per personal/side project (not a class subject — e.g. an app being built, a startup idea). Mirrors the subject overview shape.
+
+```markdown
+---
+type: project-overview
+code: <ProjectName>
+title: <Project Name — one-line description>
+classes_ingested: N
+---
+
+# <Project Name>
+
+## Topics covered so far
+- bullet list of what's been explored/ingested
+
+## Concepts
+- [[wiki/projects/<project>/<concept-slug>]] — one-line description
+
+## Sources
+- [[raw/projects/<project>/<file>]]
+```
+
+### Project concept page (`wiki/projects/<project>/<concept-slug>.md`)
+Used for a recurring topic within a project: architecture, a business model, a specific module. Same shape as a subject concept page.
+
+```markdown
+---
+type: project-concept
+project: <ProjectName>
+tags: [...]
+updated: YYYY-MM-DD
+---
+
+# <Concept Name>
+
+Synthesis, then detail sections as needed.
+
+## Sources
+- [[raw/projects/<project>/<file>]]
+```
+
+### Job overview / concept pages (`wiki/job/<project>/...`)
+Same shape as the Project overview/concept pages above (`type: job-overview` / `type: job-concept`, field `job:` instead of `project:`), but for **paid work** — an employer's or client's project — instead of a personal side project. Raw sources live in `raw/job/<project>/` (mutable — these are living documents, unlike other `raw/` folders).
 
 ### Concept page (`wiki/concepts/<slug>.md`)
 For ideas that recur across personal life and books — e.g., "motivation", "identity", "loss", "routine".

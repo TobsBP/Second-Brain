@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "354391c550bd8fd4",
+        "id": "0b0b3096de71a7bb",
         "type": "tabs",
         "children": [
           {
-            "id": "c326d040e43d14b7",
+            "id": "fa081a6ffbcabbcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/subjects/S03-ArqSoft/Practice exam NP2.md",
+                "file": "raw/job/MulherEmForma/mef-survey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice exam NP2"
+              "title": "mef-survey"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -71,14 +71,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 280.5
   },
   "right": {
     "id": "57a2e1841666ba2d",
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -185,64 +185,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c326d040e43d14b7",
+  "active": "4f800be208d0a018",
   "lastOpenFiles": [
-    "raw/job/Architecture.md",
-    "raw/subjects/S03-ArqSoft/Practice exam NP2.md",
-    "raw/subjects/S07-QGCE/NP2-Project/base-desing.excalidraw.md",
-    "raw/subjects/S07-QGCE/NP2-Project/screen 1.png",
-    "raw/subjects/S07-QGCE/NP2-Project/screen.png",
-    "raw/subjects/S07-QGCE/NP2-Project/screen 1.png",
+    "raw/job/MulherEmForma/mef-content-api-v2.md",
+    "wiki/job/MulherEmForma/journey-temporal-app.md",
+    "wiki/job/MulherEmForma/mef-content-api-v2.md",
+    "wiki/job/MulherEmForma/strapi-migrator.md",
+    "wiki/job/MulherEmForma/flow-view.md",
+    "wiki/job/MulherEmForma/notifications.md",
+    "wiki/job/MulherEmForma/mef-landing-frontend.md",
+    "wiki/job/MulherEmForma/mef-landing-backend.md",
+    "wiki/job/MulherEmForma/plans.md",
+    "wiki/job/MulherEmForma/migrations.md",
+    "wiki/job/MulherEmForma/nutritional-assistant.md",
+    "wiki/job/MulherEmForma/ticket-support.md",
+    "wiki/job/MulherEmForma/mef-survey.md",
+    "wiki/job/MulherEmForma/mef-web-apps-hub.md",
+    "wiki/job/MulherEmForma/mef-analytics-backoffice.md",
+    "wiki/job/MulherEmForma/mef-social-api.md",
+    "wiki/job/MulherEmForma/mef-core-api-v1.md",
+    "wiki/job/MulherEmForma/class-ticket.md",
+    "wiki/job/MulherEmForma/bff.md",
+    "wiki/job/MulherEmForma/backoffice-bff.md",
+    "wiki/job/MulherEmForma/mef-backoffice-cs.md",
+    "raw/job/MulherEmForma/ticket-support.md",
+    "raw/job/MulherEmForma/journey-temporal-app.md",
+    "raw/job/MulherEmForma/strapi-migrator.md",
+    "raw/job/MulherEmForma/flow-view.md",
+    "raw/job/MulherEmForma/plans.md",
+    "wiki/job/MulherEmForma",
+    "raw/job/MulherEmForma",
+    "wiki/job/UpVox",
+    "wiki/job",
+    "raw/job/UpVox",
+    "raw/job",
+    "wiki/projects/UpVox",
+    "raw/projects/UpVox",
+    "wiki/projects/Portfolio",
+    "wiki/projects/ApiBoilerplate",
+    "raw/subjects/S03-ArqSoft/Pasted image 20260528125903.png",
+    "raw/subjects/S07-QGCE/NP2-Project/screen_2.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_1.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_0.png",
-    "raw/subjects/S07-QGCE/NP2-Project/screen_2.png",
-    "raw/subjects/S07-QGCE/NP2-Project",
-    "raw/subjects/S07-QGCE/NP2-Project/Integrantes.md",
-    "raw/subjects/C09-CG/Atividade/Lista Reposição 01.md",
-    "raw/Projects/Game/OverView.excalidraw.md",
-    "raw/Projects/Game",
-    "raw/Projects",
-    "raw/subjects/C09-CG/Atividade/Lista de Reposição 02.md",
-    "raw/subjects/C09-CG/Compressão de imagens.md",
-    "raw/subjects/C09-CG/Atividade",
-    "README.md",
-    "raw/subjects/S03-ArqSoft/Relatorio 2.md",
-    "raw/projects/overview.excalidraw.md",
-    "raw/subjects/C09-CG/Filtragem.md",
-    "raw/subjects/C24-AI/Filtros.md",
-    "raw/subjects/C24-AI/MPL - Neural Network.md",
-    "raw/subjects/C09-CG/Operações no Domínio do Espaço.md",
+    "raw/subjects/S07-QGCE/NP2-Project/screen.png",
+    "raw/subjects/S07-QGCE/NP2-Project/screen 1.png",
+    "Pasted image 20260528125903.png",
+    "Pasted image 20260511183643.png",
     "raw/projects/overview.canvas",
-    "raw/projects/Untitled.md",
-    "raw/projects",
-    "wiki/subjects/C24-IA/neural-networks.md",
-    "raw/subjects/C09-CG/Dados Multimídia.md",
-    "raw/subjects/C09-CG/Drawing 2026-04-30 17.59.04.excalidraw.md",
-    "wiki/books/eng-soft-moderna/eng-soft-moderna-overview.md",
-    "index.md",
-    "CLAUDE.md",
-    "wiki/subjects/C09-CG/C09-CG-overview.md",
-    "wiki/subjects/C09-CG/operacoes-dominio-espaco.md",
-    "raw/subjects/Fetin",
-    "raw/subjects/C09-CG/Multimídia e Hipermídia.md",
-    "wiki/concepts/functional-vs-nonfunctional-requirements.md",
-    "Untitled.base",
-    "Excalidraw",
-    "raw/subjects/C09-CG",
     "raw/subjects/C24-AI/Untitled.canvas",
-    "raw/subjects/C24-AI",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
     "Untitled.canvas"
   ]

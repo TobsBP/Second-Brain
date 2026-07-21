@@ -1,1 +1,0 @@
-The backend Fastfy with nodeJs, scalar.

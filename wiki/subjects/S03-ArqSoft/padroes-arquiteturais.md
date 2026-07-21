@@ -44,5 +44,8 @@ Aplicações oferecem seus serviços via **APIs** consumíveis por outras aplica
 
 **Documentação continua sendo necessária** (WSDL no caso de SOA clássico, OpenAPI no caso REST) — a padronização não elimina a necessidade de contratos documentados.
 
+Ver também [[wiki/subjects/S03-ArqSoft/padroes-projeto-gof]] para padrões de projeto no nível de classes/objetos (Factory Method, Strategy, Adapter, Decorator, Observer, Singleton).
+
 ## Sources
 - [[raw/subjects/S03-ArqSoft/Practice exam NP1]] — questões 6, 7, 8, 9
+- [[raw/subjects/S03-ArqSoft/Padrões Arquiteturais.md]] — fonte adicional (MVC feito para web, HTTP como protocolo base; exemplo de SPA "como baixar um app")
