@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/projects/Fetin/Ajustes.md",
+                "file": "wiki/subjects/C12-SO/arquitetura-e-funcoes-do-so.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ajustes"
+              "title": "arquitetura-e-funcoes-do-so"
             }
           }
         ]
@@ -211,7 +211,13 @@
   },
   "active": "42adfbceca93d107",
   "lastOpenFiles": [
+    "wiki/subjects/C12-SO/C12-SO-overview.md",
+    "wiki/subjects/C12-SO/arquitetura-e-funcoes-do-so.md",
+    "raw/subjects/C12/Aula introdutória.excalidraw.md",
+    "wiki/subjects/C12-SO",
     "raw/projects/Fetin/Ajustes.md",
+    "raw/subjects/C12/Aula introdutória.md",
+    "raw/subjects/C12",
     "Untitled.base",
     "raw/projects/Fetin/Drawing 2026-06-26 17.09.00.excalidraw.md",
     "raw/subjects/S03-ArqSoft/Practice exam NP1.md",
@@ -234,9 +240,6 @@
     "wiki/job/MulherEmForma/nutritional-assistant.md",
     "wiki/job/MulherEmForma/ticket-support.md",
     "wiki/job/MulherEmForma/mef-survey.md",
-    "wiki/job/MulherEmForma/mef-web-apps-hub.md",
-    "wiki/job/MulherEmForma/mef-analytics-backoffice.md",
-    "wiki/job/MulherEmForma/mef-social-api.md",
     "wiki/job/MulherEmForma",
     "raw/job/MulherEmForma",
     "wiki/job/UpVox",
@@ -244,8 +247,6 @@
     "raw/job/UpVox",
     "raw/job",
     "wiki/projects/UpVox",
-    "raw/projects/UpVox",
-    "wiki/projects/Portfolio",
     "raw/subjects/S03-ArqSoft/Pasted image 20260528125903.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_2.png",
     "raw/subjects/S07-QGCE/NP2-Project/screen_1.png",

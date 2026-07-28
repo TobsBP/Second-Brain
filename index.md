@@ -37,6 +37,8 @@ updated: 2026-07-21
   - [[wiki/subjects/S02-BD2/neo4j-graph-model]] — Nós, relacionamentos, propriedades
   - [[wiki/subjects/S02-BD2/cypher-query-language]] — Comandos Cypher: MERGE, MATCH, UNWIND, etc.
   - [[wiki/subjects/S02-BD2/neo4j-python-driver]] — Driver Python e padrão DAO
+- [[wiki/subjects/C12-SO/C12-SO-overview]] — C12 Sistemas Operacionais
+  - [[wiki/subjects/C12-SO/arquitetura-e-funcoes-do-so]] — Von Neumann (CPU/RAM/I/O) e as quatro gerências do SO
 - [[wiki/subjects/S07-QGCE/S07-QGCE-overview]] — S07 Qualidade, Gerência de Config e Evolução de Software (projeto NP2: equipe + desenho de arquitetura)
 
 ## Projects

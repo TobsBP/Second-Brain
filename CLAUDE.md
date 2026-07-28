@@ -207,6 +207,7 @@ Links to related concepts, personal pages, and book pages.
 Subject codes:
 - C24 → Inteligência Artificial
 - C09 → Computação Gráfica
+- C12 → Sistemas Operacionais
 - S03 → Arquitetura de Software
 - S02 → Banco de Dados 2
 - S07 → Qualidade, Gerência de Config e Evolução de Software
