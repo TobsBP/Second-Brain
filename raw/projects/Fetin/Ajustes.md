@@ -1,10 +1,6 @@
 ### Notificação
 Novos lugares para mandar notificação
 
-- Novos post na comunidade
-- Treino liberado / Dieta / CRM
-- Consulta aceita, solicitação
-- Lembrar consulta, agua, treino do dia
 - Notificas pós tempo sem registrar treino, nutri
 - Ajuste na notificacao como fisio confirmacao de atendimento
 
@@ -20,6 +16,16 @@ Melhorias da parte social
 - Interação com enquetes, finalizar enquete depois de um tempo
 - O dono da comunidade pode enviar post para geral. 
 - Expandir moderadores, níveis como discord. 
+- adcionar param public no social
+
+
+Fixado  limitado por hora dentro da comunidade
+
+Destaque feed tela cheia publico
+
+Publico cai pra todo mundo
+
+Privado apenas minha comunidade
 
 ### Validação dos profissionais
 Uma forma mais fácil de validar o profissional
@@ -36,30 +42,15 @@ Escurecer talvez, e indicar com uma seta, texto explicando. Depois.
 - Exportar documento
 - Relatório de desempenho do seu cliente
 - Solicitação de exames
-- Reavaliacao definir data recorrecia
-- Desvincular Profissionais dos clientes
+- Desvincular Profissionais dos clientes adcionar perfil do cliente quando profissional abre
 
 ### Cliente
 Acompanhar progresso
 
-- Progresso de peso
 - Medidas
-- Texto descritivo na aba de dieta
 
-### Chat
-Melhorar qualidade do chat
+### Assistante
 
-- Enviar arquivos como pdf.
-
-
-Desmarcar, reagendar, diferenca entre cor carbo e gordura, falta de alguns espacos no chat com o assistante, meta de agua nutri define
-
-Adcionar deletar msg
-
-cancelar pedido
-
-n clicar na seta para entrar no grupo
-
-pedido enviar modo escuro cor diferente
-
-tem certeza que quer continuar, a criacao da dieta mesmo com seu cliente tendo essa restricao? sim? gera n ? n gera
+- Selecionar varios cliente ao falar com o assistante
+- Horario de atendimento, marcar
+- Salvar a conversa do assitante com o profissional

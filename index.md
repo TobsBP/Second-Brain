@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-21
+updated: 2026-07-29
 ---
 
 # Wiki Index
@@ -39,6 +39,10 @@ updated: 2026-07-21
   - [[wiki/subjects/S02-BD2/neo4j-python-driver]] — Driver Python e padrão DAO
 - [[wiki/subjects/C12-SO/C12-SO-overview]] — C12 Sistemas Operacionais
   - [[wiki/subjects/C12-SO/arquitetura-e-funcoes-do-so]] — Von Neumann (CPU/RAM/I/O) e as quatro gerências do SO
+  - [[wiki/subjects/C12-SO/kernel-e-estrutura-do-sistema]] — Kernel, bootstrap/firmware, programas de sistema × aplicativos
+  - [[wiki/subjects/C12-SO/interrupcoes-e-estrutura-io]] — Controlador de dispositivos, interrupções, driver, DMA
+  - [[wiki/subjects/C12-SO/armazenamento-e-fetch-execute]] — Hierarquia de memória e ciclo fetch-execute
+  - [[wiki/subjects/C12-SO/multiprocessamento]] — Assimétrico (master-workers) × simétrico
 - [[wiki/subjects/S07-QGCE/S07-QGCE-overview]] — S07 Qualidade, Gerência de Config e Evolução de Software (projeto NP2: equipe + desenho de arquitetura)
 
 ## Projects
