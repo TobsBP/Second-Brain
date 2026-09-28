@@ -1,1 +1,0 @@
-**2 centros de distribuição.** O método do cotovelo mostra uma queda enorme na inércia ao passar de k=1 para k=2, e a partir de k=3 a curva praticamente não melhora mais. Isso indica que os clientes se dividem naturalmente em 2 grupos, tornando 2 centros de distribuição a escolha ideal para minimizar a distância total de transporte.

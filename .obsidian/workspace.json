@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83f6c08520798ec2",
+        "id": "602decbf4788bdfc",
         "type": "tabs",
         "children": [
           {
-            "id": "42adfbceca93d107",
+            "id": "9e572f70d4782292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/subjects/C12-SO/C12-SO-overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "C12-SO-overview"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,12 +82,11 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 398.13671875
   },
   "right": {
     "id": "57a2e1841666ba2d",
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/job/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Architecture"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,8 +182,7 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,54 +204,54 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "42adfbceca93d107",
+  "active": "9e572f70d4782292",
   "lastOpenFiles": [
-    "wiki/subjects/C12-SO/arquitetura-e-funcoes-do-so.md",
-    "wiki/subjects/C12-SO/kernel-e-estrutura-do-sistema.md",
-    "wiki/subjects/C12-SO/interrupcoes-e-estrutura-io.md",
-    "wiki/subjects/C12-SO/armazenamento-e-fetch-execute.md",
-    "wiki/subjects/C12-SO/multiprocessamento.md",
-    "wiki/subjects/C12-SO/C12-SO-overview.md",
-    "raw/subjects/C12/Capítulo 1 - Introdução aos Sistemas Operacionais.md",
-    "Pasted image 20260729222545.png",
-    "Pasted image 20260729222257.png",
-    "Pasted image 20260729221535.png",
-    "Pasted image 20260729220534.png",
+    "Materias/C09-CG/Filtragem.md",
+    "Materias/S02-BD2/Neo4j test.md",
+    "Materias/S02-BD2/Neo4j e Cypher.md",
+    "Melhor Engenheiro/Seção 02/2.1 Uma linguagem com profundidade real/TypeScript.md",
+    "Materias/C09-CG/Vídeo e TV.md",
+    "Materias/C09-CG/Iluminação e Sombreamento.md",
+    "Materias/C09-CG/Transformações Geométricas.md",
+    "Materias/S03-ArqSoft/Padrões de Projeto.md",
+    "Materias/S03-ArqSoft/Princípios de Design.md",
+    "Materias/S03-ArqSoft/Arquitetura vs Engenharia.md",
+    "Materias/S03-ArqSoft/Pilares da OO.md",
+    "Materias/C09-CG/Curvas e Superfícies.md",
+    "Materias/C09-CG/Modelos de Cor.md",
+    "Materias/S03-ArqSoft/Padrões Arquiteturais.md",
+    "Materias/S03-ArqSoft/Atividades/Relatorio 2.md",
+    "Materias/T03/01 - Métricas de desempenho.md",
+    "Materias/C09-CG/Multimídia e Hipermídia.md",
+    "Materias/C09-CG/Compressão de imagens.md",
+    "Materias/C12-SO/Von Neumann e Gerências do SO.md",
+    "Materias/C12-SO/Aula introdutória.excalidraw.md",
+    "Materias/C12-SO/Capítulo 1 - Introdução aos Sistemas Operacionais.md",
+    "Materias/C12-SO/Proteção e Segurança.md",
+    "Materias/C12-SO/Estrutura e Operações de um SO.md",
+    "Materias/C24-AI/MLP - Neural Network.md",
+    "Materias/C12-SO/Anexos/Pasted image 20260729214149.png",
+    "Materias/T03/01 - Métricas de desempenho Draw.excalidraw.md",
+    "Materias/C24-AI/Atividades/Atividade k-means.md",
+    "Materias/C24-AI/Atividades",
+    "Materias/S03-ArqSoft/Atividades",
+    "Materias/S03-ArqSoft/Provas",
+    "Materias/S03-ArqSoft/Anexos/Pasted image 20260528125903.png",
+    "Materias/S03-ArqSoft/Anexos",
+    "Materias/C09-CG/Atividades",
+    "Materias/M09-PO/Atividades",
+    "Materias/M09-PO",
+    "Materias/C12-SO/Anexos/Pasted image 20260729222545.png",
+    "Materias/C12-SO/Anexos/Pasted image 20260729222257.png",
+    "Materias/C12-SO/Anexos/Pasted image 20260729215155.png",
+    "Materias/C12-SO/Anexos/Pasted image 20260729221535.png",
+    "Materias/C12-SO/Anexos/Pasted image 20260729220534.png",
+    "Materias/C12-SO/Atividades",
+    "Materias/C12-SO/Anexos",
+    "Materias/C12-SO",
     "Pasted image 20260729215155.png",
+    "Pasted Image 20260805190636_003.png",
     "Pasted image 20260729214149.png",
-    "raw/projects/Fetin/Drawing 2026-06-26 17.09.00.excalidraw.md",
-    "raw/subjects/C12/Aula introdutória.excalidraw.md",
-    "raw/projects/Fetin/Ajustes.md",
-    "raw/subjects/T03/Introdução.md",
-    "raw/subjects/T03",
-    "raw/subjects/M09/Pesquisa Operacional.md",
-    "raw/subjects/M09",
-    "wiki/subjects/C12-SO",
-    "raw/subjects/C12/Aula introdutória.md",
-    "raw/subjects/C12",
-    "Untitled.base",
-    "raw/subjects/S03-ArqSoft/Practice exam NP1.md",
-    "wiki/job/MulherEmForma/bff.md",
-    "wiki/job/MulherEmForma/mef-landing-frontend.md",
-    "raw/projects/OiFitAPI/Nota.md",
-    "raw/projects/ApiBoilerplate/Nota.md",
-    "raw/projects/Portfolio/Nota.md",
-    "raw/job/UpVox/ComunidadeVitrineProjetos.md",
-    "raw/job/MulherEmForma/mef-survey.md",
-    "raw/job/MulherEmForma/mef-content-api-v2.md",
-    "wiki/job/MulherEmForma/journey-temporal-app.md",
-    "wiki/job/MulherEmForma/mef-content-api-v2.md",
-    "wiki/job/MulherEmForma/strapi-migrator.md",
-    "wiki/job/MulherEmForma/flow-view.md",
-    "wiki/job/MulherEmForma",
-    "raw/job/MulherEmForma",
-    "wiki/job/UpVox",
-    "wiki/job",
-    "raw/job/UpVox",
-    "raw/subjects/S03-ArqSoft/Pasted image 20260528125903.png",
-    "raw/subjects/S07-QGCE/NP2-Project/screen_2.png",
-    "raw/subjects/S07-QGCE/NP2-Project/screen_1.png",
-    "raw/subjects/S07-QGCE/NP2-Project/screen_0.png",
     "raw/projects/overview.canvas",
     "raw/subjects/C24-AI/Untitled.canvas",
     "Untitled.canvas"

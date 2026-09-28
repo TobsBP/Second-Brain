@@ -3,5 +3,6 @@
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "notebook-navigator"
+  "notebook-navigator",
+  "code-emitter"
 ]
