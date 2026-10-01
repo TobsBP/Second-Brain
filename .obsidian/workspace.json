@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "602decbf4788bdfc",
+        "id": "4ffd7b7e5f18ae04",
         "type": "tabs",
         "children": [
           {
-            "id": "9e572f70d4782292",
+            "id": "59a7eb71a2a89f3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Revisões.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Revisões"
             }
           }
         ]
@@ -86,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.13671875
+    "width": 424.70703125
   },
   "right": {
     "id": "57a2e1841666ba2d",
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Revisões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,51 +209,51 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "9e572f70d4782292",
+  "active": "59a7eb71a2a89f3f",
   "lastOpenFiles": [
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/SRS.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Revisões.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Briefing.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/ADRs/0001 - Login com senha e sessão longa.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Tentativas/SRS - tentativa 3.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Tentativas/ADR 001 - tentativa 3.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/Tentativas",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/ADRs/ADR 001.md",
+    "Melhor Engenheiro/Prática/Roteiro.md",
+    "Aprendendo a Programar/Lições/Untitled.md",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República/ADRs",
+    "Melhor Engenheiro/Prática/Atividades/01 - Contas da República",
+    "Melhor Engenheiro/Prática/Lições",
+    "Melhor Engenheiro/Prática/Atividades",
+    "Melhor Engenheiro/Prática",
+    "Aprendendo a Programar/Atividades/01 - Contas da República/Briefing.md",
+    "Aprendendo a Programar/Atividades/01 - Contas da República/ADRs",
+    "Aprendendo a Programar/Atividades/01 - Contas da República",
+    "Materias/T03-Redes/Aula 10 - ACLs/Aula 10 - ACLs Draw.excalidraw.md",
+    "Materias/T03-Redes/Aula 10 - ACLs/Aula 10 - ACLs.md",
+    "Materias/T03-Redes/Aula 10 - ACLs",
+    "Materias/T03-Redes/01 - Métricas de desempenho Draw.excalidraw.md",
+    "Materias/T03-Redes/Aula 10 - ACLs.md",
+    "CLAUDE.md",
+    "README.md",
+    "Melhor Engenheiro/RoadMap.pdf",
+    "Melhor Engenheiro/Seção 02/2.6 Arquitetura e design de software/Arquitetura Draw.md",
+    "Melhor Engenheiro/Seção 02/2.6 Arquitetura e design de software/Arquitetura e design de software.md",
+    "Melhor Engenheiro/Seção 02/2.7 Modelagem de domínio/Modelagem Draw.md",
+    "Melhor Engenheiro/Seção 02/2.7 Modelagem de domínio/Modelagem de domínio.md",
+    "Materias/T03-Redes/01 - Métricas de desempenho.md",
     "Materias/C09-CG/Filtragem.md",
     "Materias/S02-BD2/Neo4j test.md",
     "Materias/S02-BD2/Neo4j e Cypher.md",
     "Melhor Engenheiro/Seção 02/2.1 Uma linguagem com profundidade real/TypeScript.md",
     "Materias/C09-CG/Vídeo e TV.md",
-    "Materias/C09-CG/Iluminação e Sombreamento.md",
-    "Materias/C09-CG/Transformações Geométricas.md",
-    "Materias/S03-ArqSoft/Padrões de Projeto.md",
-    "Materias/S03-ArqSoft/Princípios de Design.md",
-    "Materias/S03-ArqSoft/Arquitetura vs Engenharia.md",
-    "Materias/S03-ArqSoft/Pilares da OO.md",
-    "Materias/C09-CG/Curvas e Superfícies.md",
-    "Materias/C09-CG/Modelos de Cor.md",
-    "Materias/S03-ArqSoft/Padrões Arquiteturais.md",
-    "Materias/S03-ArqSoft/Atividades/Relatorio 2.md",
-    "Materias/T03/01 - Métricas de desempenho.md",
-    "Materias/C09-CG/Multimídia e Hipermídia.md",
-    "Materias/C09-CG/Compressão de imagens.md",
-    "Materias/C12-SO/Von Neumann e Gerências do SO.md",
-    "Materias/C12-SO/Aula introdutória.excalidraw.md",
-    "Materias/C12-SO/Capítulo 1 - Introdução aos Sistemas Operacionais.md",
-    "Materias/C12-SO/Proteção e Segurança.md",
-    "Materias/C12-SO/Estrutura e Operações de um SO.md",
-    "Materias/C24-AI/MLP - Neural Network.md",
     "Materias/C12-SO/Anexos/Pasted image 20260729214149.png",
-    "Materias/T03/01 - Métricas de desempenho Draw.excalidraw.md",
-    "Materias/C24-AI/Atividades/Atividade k-means.md",
-    "Materias/C24-AI/Atividades",
-    "Materias/S03-ArqSoft/Atividades",
-    "Materias/S03-ArqSoft/Provas",
     "Materias/S03-ArqSoft/Anexos/Pasted image 20260528125903.png",
-    "Materias/S03-ArqSoft/Anexos",
-    "Materias/C09-CG/Atividades",
-    "Materias/M09-PO/Atividades",
-    "Materias/M09-PO",
     "Materias/C12-SO/Anexos/Pasted image 20260729222545.png",
     "Materias/C12-SO/Anexos/Pasted image 20260729222257.png",
     "Materias/C12-SO/Anexos/Pasted image 20260729215155.png",
     "Materias/C12-SO/Anexos/Pasted image 20260729221535.png",
     "Materias/C12-SO/Anexos/Pasted image 20260729220534.png",
-    "Materias/C12-SO/Atividades",
-    "Materias/C12-SO/Anexos",
-    "Materias/C12-SO",
     "Pasted image 20260729215155.png",
     "Pasted Image 20260805190636_003.png",
     "Pasted image 20260729214149.png",

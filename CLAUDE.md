@@ -18,6 +18,7 @@ Vault pessoal do Obsidian (anotações da faculdade, projetos, estudos). Estrutu
 - Imagem → `Anexos/` ao lado da nota que a usa
 - Disciplina nova → pasta `<CÓDIGO>-<Sigla>` (ex.: `C12-SO`) e uma linha na tabela do README
 - Projeto pessoal → `projects/<Nome>/`
+- Briefing, requisitos, ADRs e revisões de aprendizado → `Melhor Engenheiro/Prática/` (regras em `Roteiro.md`)
 
 ## Histórico
 

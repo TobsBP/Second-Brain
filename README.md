@@ -13,6 +13,7 @@ Materias/            ← uma pasta por disciplina (código-sigla)
     Anexos/          ← imagens coladas nas notas
 projects/            ← uma pasta por projeto pessoal (arquitetura, notas, desenhos)
 Melhor Engenheiro/   ← estudos guiados pelo RoadMap.pdf, uma pasta por tópico
+  Prática/           ← briefings de produto → requisitos, ADRs e código (ver Roteiro.md)
 ```
 
 ## Disciplinas
